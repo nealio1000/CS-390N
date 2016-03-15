@@ -1,0 +1,80 @@
+8
+===== body 0 =======
+10 50 10
+0 1 0 0
+5 0 5
+30
+0 1 0
+1
+dodecahedron
+1.61803398875  Golden ratio for placing vertices on cartesian coordinates
+10 radius
+===== body 1 =======
+90 50 90
+0 1 0 0
+-5 0 -5
+-47
+0 0 1
+1
+dodecahedron
+1.61803398875  Golden ratio for placing vertices on cartesian coordinates
+5 radius
+====== body 2 =========
+10 50 10
+53 1 0 1
+6 1 5
+49
+1 1 1
+1
+cylinder
+10       radius
+20       height
+6        number of sides
+===== body 3 =======
+90 50 90
+0 1 0 0
+-5 0 -5
+-47
+0 0 1
+1
+dodecahedron
+1.61803398875  Golden ratio for placing vertices on cartesian coordinates
+5 radius
+===== body 4 =======
+10 50 10
+0 1 0 0
+5 0 5
+30
+0 1 0
+1
+dodecahedron
+1.61803398875  Golden ratio for placing vertices on cartesian coordinates
+10 radius
+====== body 5 ========
+90 50 90
+37 1 0 0
+-5 1 -6
+65
+1 0 1
+1
+tetra
+10
+===== body 6 =======
+10 50 10
+0 1 0 0
+5 0 5
+30
+0 1 0
+1
+dodecahedron
+1.61803398875  Golden ratio for placing vertices on cartesian coordinates
+10 radius
+====== body 7 =========
+90 50 90
+0 1 0 0
+-5 0 -5
+30
+0 0 1
+1
+box
+10 10 10

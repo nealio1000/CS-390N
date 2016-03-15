@@ -1,0 +1,20 @@
+2
+====== body 0 =========
+10 50 10    center
+0 1 0 0     ori (angle followed by axis)
+5 0 5       translational velocity
+30          spin rate
+0 1 0       spin axis
+1           inverse mass
+hexagon
+5 10          radius, depth
+====== body 1 =========
+90 50 90
+0 1 0 0
+-5 0 -5
+30
+0 0 1
+1
+hexagon
+5 10          radius, depth
+============================
